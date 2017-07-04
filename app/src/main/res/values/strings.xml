@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coffeeshop</string>
+
+
+    <string-array name="coffee">
+        <item>hotchocolate</item>
+        <item>millo</item>
+        <item>blackcoffee</item>
+        <item>greentea</item>
+        <item>blackTea</item>
+        <item>herbaltea</item>
+
+
+    </string-array>
+
+
+</resources>
